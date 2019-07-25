@@ -1,0 +1,105 @@
+
+        footer {
+            margin-left: 230px;
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            right: 0
+        }
+        textarea {
+            resize: none;
+        }
+        .error{
+            color: red!important
+        }
+        .country-select-input {width: 100%;}
+        ul.bar_tabs {
+
+            background: none; 
+            height: 24px;
+
+        }
+        .table {
+            width: 100%;
+            max-width: 100%;
+            margin-bottom: 0px;
+        }
+
+
+        #attendance_table>tbody>tr>td {
+            padding: 2px;
+
+        }
+
+        .inner_table>tbody>tr>td {
+            padding: 5px;
+            line-height: 1.42857143;
+            vertical-align: top;
+            border-top: none;
+            padding-bottom: 0px!important;
+        }
+        td.col-lg-8.name {
+            /* padding: 15px; */
+            vertical-align: middle;
+        }
+        .full_height {
+            min-height: -webkit-fill-available;
+            min-height: -ms-fill-available;
+            min-height: -moz-fill-available;
+        }
+        .alert-info {
+            color: #31708f;
+            background-color: #d9edf7;
+            border-color: #bce8f1;
+        }
+        .alert-success {
+            color: #3c763d;
+            background-color: #dff0d8;
+            border-color: #d6e9c6;
+            padding: 5px;
+        }
+
+        .alert-warning {
+            color: #8a6d3b;
+            background-color: #fcf8e3;
+            border-color: #faebcc;
+        }
+
+        #gender .active{
+            color: #fff;
+            background-color: #337ab7;
+            border-color: #2e6da4;
+        }
+
+        .dataTables_paginate a {
+            padding: 6px 9px !important;
+            background: #fff !important; 
+            border-color: #ddd !important;
+        }
+        
+        .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+            z-index: 3;
+            color: #fff;
+            cursor: default;
+            background-color: #337ab7!important;
+            border-color: #337ab7;
+        }
+        img.app_logo {
+            width: 200px;
+            padding-bottom: 5px!important;
+        }
+        
+        .tile_count .tile_stats_count span {
+        font-size: 40px;
+        margin-bottom: 0px!important;
+    }
+    
+    
+    .tile_count .tile_stats_count {
+        margin-bottom: 0px!important; 
+        border-bottom: 0px!important; 
+        padding-bottom: 0px!important; 
+    }
+    .tile_stats_count canvas {
+        margin-left: 40px
+    }
